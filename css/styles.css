@@ -1,0 +1,12 @@
+nav, footer {
+    background: black;
+    color: white;
+}
+
+.bg-red {
+background: red;
+}
+
+.bg-green {
+    background: green;
+}
