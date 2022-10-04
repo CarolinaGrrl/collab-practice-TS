@@ -1,0 +1,13 @@
+nav, footer {
+    background: black;
+    color: white;
+    text-align: center;
+}
+
+.bg-red {
+background: red;
+}
+
+.bg-green {
+    background: green;
+}
